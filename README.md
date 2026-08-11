@@ -120,15 +120,25 @@ Raw CSVs → SQLite ingestion → SQL CTE joins (purchases + sales + freight)
 
 ## 📈 Dashboard Preview
 
+**Full Power BI Dashboard**
 ![Vendor Performance Dashboard](images/01_dashboard_overview.png)
 
-**Vendor concentration**             |  **Low-sales / high-margin brand detection**
-:---:|:---:
-![Vendor Concentration](images/02_vendor_concentration.png) | ![Low Sales High Margin](images/03_low_sales_high_margin_brands.png)
+**Vendor Concentration — Top 10 vendors drive 65.69% of purchases**
+![Vendor Concentration](images/02_vendor_concentration.png)
 
-**Freight cost anomaly (new finding)**  |  **Statistical validation of margin gap**
-:---:|:---:
-![Freight Cost Anomaly](images/04_freight_cost_anomaly.png) | ![Statistical Validation](images/05_statistical_validation.png)
+**Low-Sales / High-Margin Brand Detection — 198 brands flagged for promotion, not delisting**
+![Low Sales High Margin Brands](images/03_low_sales_high_margin_brands.png)
+
+**Freight Cost Anomaly — 2 vendors at 90–100× the portfolio norm**
+![Freight Cost Anomaly](images/04_freight_cost_anomaly.png)
+
+**Statistical Validation — Top vs. low vendor margin gap (T = -17.67, p < 0.0001)**
+![Statistical Validation](images/05_statistical_validation.png)
+
+**Portfolio Breadth vs. Concentration — Diageo generates 5.9× more revenue per SKU than Martignetti**
+![Portfolio Breadth](images/06_portfolio_breadth.png)
+
+
 
 ---
 
