@@ -222,7 +222,7 @@ experience, transitioning into Data Analyst / Supply Chain Analyst roles. This p
 background directly — the questions it answers are the same ones I ask in my day job, just backed here by
 SQL, statistical testing, and an interactive dashboard instead of a spreadsheet.
 
-- 🔗 LinkedIn: [linkedin.com/in/hiten-shah-analyst963](https://linkedin.com/in/hiten-shah-analyst963)
+- 🔗 LinkedIn: [linkedin.com/in/hitenshah-data](https://linkedin.com/in/hitenshah-data)
 - 💻 GitHub: [github.com/hiten-shah-analytics](https://github.com/hiten-shah-analytics)
 
 If you're hiring for Data Analyst or Supply Chain Analyst roles in Mumbai, I'd love to connect.
